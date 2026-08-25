@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://1xbet.pages.dev/sitemap.xml
+Sitemap: https://1xbet-oa6.pages.dev/sitemap.xml
